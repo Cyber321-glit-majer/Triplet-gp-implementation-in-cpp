@@ -3,6 +3,7 @@ c++
 ** Find the total number of triplet geometric progression .
 
 Input: a[]=1,16,4,16,64,16
+
        r=4
        
        OUTPUT: 3
